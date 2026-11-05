@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "Markdown",
+    "slug": "markdown-deals",
+    "version": "1.0.0",
+    "orientation": "default",
+    "userInterfaceStyle": "dark",
+    "backgroundColor": "#202326",
+    "android": {
+      "package": "com.jupitercoder.markdown",
+      "versionCode": 1
+    }
+  }
+}
