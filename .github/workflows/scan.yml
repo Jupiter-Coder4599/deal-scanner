@@ -1,30 +1,34 @@
-name: Unzip upload
+name: Scan for deals
 
 on:
-  push:
-    paths:
-      - "*.zip"
+  schedule:
+    - cron: "0 11,23 * * *"
   workflow_dispatch:
 
 permissions:
   contents: write
 
 jobs:
-  unzip:
+  scan:
     runs-on: ubuntu-latest
+    timeout-minutes: 120
     steps:
       - uses: actions/checkout@v4
-      - name: Extract zip into the repo
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Target (all Harris County stores)
+        continue-on-error: true
+        env:
+          MAX_PRICE: ${{ vars.MAX_PRICE }}
+          MIN_PCT_OFF: ${{ vars.MIN_PCT_OFF }}
+        run: node scan-target.js
+      - name: Merge results
+        run: node merge.js
+      - name: Save results
         run: |
-          mkdir -p /tmp/unz
-          for z in *.zip; do unzip -o "$z" -d /tmp/unz; done
-          dirs=$(find /tmp/unz -mindepth 1 -maxdepth 1 -type d | wc -l)
-          files=$(find /tmp/unz -mindepth 1 -maxdepth 1 -type f | wc -l)
-          if [ "$dirs" = "1" ] && [ "$files" = "0" ]; then src=$(find /tmp/unz -mindepth 1 -maxdepth 1 -type d); else src=/tmp/unz; fi
-          rsync -a --exclude='.github' "$src"/ ./
-          git rm -q *.zip
-          git config user.name "unzip-bot"
-          git config user.email "unzip-bot@users.noreply.github.com"
-          git add -A
-          git commit -m "Unzip upload"
+          git config user.name "deal-bot"
+          git config user.email "deal-bot@users.noreply.github.com"
+          git add deals.json deals.md *-deals.json
+          git diff --cached --quiet || git commit -m "Update deals"
           git push
