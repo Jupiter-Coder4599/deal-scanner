@@ -24,7 +24,9 @@ jobs:
       - name: Install Expo
         run: npm install
       - name: Install libraries matched to this Expo SDK
-        run: npx expo install react react-native react-native-webview react-native-safe-area-context @react-native-async-storage/async-storage expo-status-bar
+        run: |
+          LIBS="react-native-webview react-native-safe-area-context @react-native-async-storage/async-storage expo-status-bar"
+          npx expo install $LIBS || npx expo install $LIBS
       - name: Check project health
         run: npx expo-doctor || true
       - name: Generate Android project
