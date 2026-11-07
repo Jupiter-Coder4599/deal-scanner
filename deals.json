@@ -1,20 +1,419 @@
 {
-  "updated": "2026-11-06T17:45:42.346Z",
-  "count": 2,
+  "updated": "2026-11-07T02:29:29.426Z",
+  "count": 25,
   "deals": [
     {
       "chain": "Target",
-      "id": "90000208",
-      "title": "2pc Silicone Spatula Set Sage Green - Figmint&#8482;: Kitchen Utensil Set, Dishwasher-Safe, Adult Use",
-      "url": "https://www.target.com/p/2pc-silicone-spatula-set-sage-green-figmint-8482/-/A-90000208",
+      "id": "75572214",
+      "title": "Que Bella Exfoliating Strawberry Peel Off Mask - 0.35oz",
+      "url": "https://www.target.com/p/que-bella-exfoliating-strawberry-peel-off-mask-0-35oz/-/A-75572214",
+      "image": "",
+      "regular": 1.99,
+      "stores": [
+        {
+          "storeId": "3375",
+          "name": "Houston Montrose",
+          "city": "Houston",
+          "address": "2075 Westheimer Rd",
+          "price": 1.99,
+          "pctOff": 0
+        }
+      ],
+      "bestPrice": 1.99
+    },
+    {
+      "chain": "Target",
+      "id": "94737447",
+      "title": "Que Bella Brightening Mango Peel-off Mask - 0.35oz",
+      "url": "https://www.target.com/p/que-bella-brightening-mango-peel-off-mask-0-35oz/-/A-94737447",
+      "image": "",
+      "regular": 1.99,
+      "stores": [
+        {
+          "storeId": "3375",
+          "name": "Houston Montrose",
+          "city": "Houston",
+          "address": "2075 Westheimer Rd",
+          "price": 1.99,
+          "pctOff": 0
+        }
+      ],
+      "bestPrice": 1.99
+    },
+    {
+      "chain": "Target",
+      "id": "95268363",
+      "title": "Que Bella Vanilla Cupcake Cream Facial Mask - 0.35 fl oz",
+      "url": "https://www.target.com/p/que-bella-soothing-and-hydrating-vanilla-cupcake-cream-facial-mask-0-35-fl-oz/-/A-95268363",
+      "image": "",
+      "regular": 1.99,
+      "stores": [
+        {
+          "storeId": "3375",
+          "name": "Houston Montrose",
+          "city": "Houston",
+          "address": "2075 Westheimer Rd",
+          "price": 1.99,
+          "pctOff": 0
+        }
+      ],
+      "bestPrice": 1.99
+    },
+    {
+      "chain": "Target",
+      "id": "1009741097",
+      "title": "Que Bella Sugar Cookie Clay Facial Mask - 0.35 fl oz",
+      "url": "https://www.target.com/p/que-bella-soothing-and-hydrating-sugar-cookie-cream-facial-mask-0-35-fl-oz/-/A-1009741097",
+      "image": "",
+      "regular": 1.99,
+      "stores": [
+        {
+          "storeId": "3375",
+          "name": "Houston Montrose",
+          "city": "Houston",
+          "address": "2075 Westheimer Rd",
+          "price": 1.99,
+          "pctOff": 0
+        }
+      ],
+      "bestPrice": 1.99
+    },
+    {
+      "chain": "Target",
+      "id": "79848090",
+      "title": "Vaseline Rosy Lip Therapy Stick - 2pk/0.16oz each",
+      "url": "https://www.target.com/p/vaseline-rosy-lip-therapy-stick-2pk-0-16oz-each/-/A-79848090",
+      "image": "",
+      "regular": 2.99,
+      "stores": [
+        {
+          "storeId": "3375",
+          "name": "Houston Montrose",
+          "city": "Houston",
+          "address": "2075 Westheimer Rd",
+          "price": 2.99,
+          "pctOff": 0
+        }
+      ],
+      "bestPrice": 2.99
+    },
+    {
+      "chain": "Target",
+      "id": "94740843",
+      "title": "Hot Wheels XL Toy Car or Truck 1:43 Scale Die-Cast Vehicle for Play or Display (Styles May Vary)",
+      "url": "https://www.target.com/p/hot-wheels-xl-asst-toy-vehicle-1-43-scale/-/A-94740843",
+      "image": "",
+      "regular": 4.99,
+      "stores": [
+        {
+          "storeId": "1336",
+          "name": "Houston South Main",
+          "city": "Houston",
+          "address": "8500 Main St",
+          "price": 2.99,
+          "pctOff": 40
+        }
+      ],
+      "bestPrice": 2.99
+    },
+    {
+      "chain": "Target",
+      "id": "1011058424",
+      "title": "Patchology Moodpatch Glass Skin Glow Hydrating &#38; Plumping Eye Patches - 0.45oz - Beauty Studio",
+      "url": "https://www.target.com/p/patchology-moodpatch-glass-skin-glow-hydrating-38-plumping-eye-patches-0-45oz-beauty-studio/-/A-1011058424",
+      "image": "",
+      "regular": 3,
+      "stores": [
+        {
+          "storeId": "3375",
+          "name": "Houston Montrose",
+          "city": "Houston",
+          "address": "2075 Westheimer Rd",
+          "price": 3,
+          "pctOff": 0
+        }
+      ],
+      "bestPrice": 3
+    },
+    {
+      "chain": "Target",
+      "id": "94999371",
+      "title": "Classic Race Car - Gigglescape&#8482;",
+      "url": "https://www.target.com/p/classic-race-car-gigglescape-8482/-/A-94999371",
+      "image": "",
+      "regular": 3,
+      "stores": [
+        {
+          "storeId": "1336",
+          "name": "Houston South Main",
+          "city": "Houston",
+          "address": "8500 Main St",
+          "price": 3,
+          "pctOff": 0
+        }
+      ],
+      "bestPrice": 3
+    },
+    {
+      "chain": "Target",
+      "id": "94635691",
+      "title": "Vaseline Holiday Limited Edition Lip Balm - Marshmallow Kiss - Travel Size - 0.25oz",
+      "url": "https://www.target.com/p/vaseline-holiday-limited-edition-lip-balm-marshmallow-kiss-travel-size-0-25oz/-/A-94635691",
+      "image": "",
+      "regular": 3.49,
+      "stores": [
+        {
+          "storeId": "3375",
+          "name": "Houston Montrose",
+          "city": "Houston",
+          "address": "2075 Westheimer Rd",
+          "price": 3.49,
+          "pctOff": 0
+        }
+      ],
+      "bestPrice": 3.49
+    },
+    {
+      "chain": "Target",
+      "id": "75559760",
+      "title": "Hot Wheels Monster Trucks Diecast Single Pack - 1:64 Scale",
+      "url": "https://www.target.com/p/hot-wheels-monster-trucks-diecast-single-pack-1-64-scale/-/A-75559760",
+      "image": "",
+      "regular": 4.19,
+      "stores": [
+        {
+          "storeId": "1336",
+          "name": "Houston South Main",
+          "city": "Houston",
+          "address": "8500 Main St",
+          "price": 3.89,
+          "pctOff": 7
+        }
+      ],
+      "bestPrice": 3.89
+    },
+    {
+      "chain": "Target",
+      "id": "94828808",
+      "title": "LEGO Creator Orange Cat 30714",
+      "url": "https://www.target.com/p/lego-creator-orange-cat-30714/-/A-94828808",
+      "image": "",
+      "regular": 4.99,
+      "stores": [
+        {
+          "storeId": "1336",
+          "name": "Houston South Main",
+          "city": "Houston",
+          "address": "8500 Main St",
+          "price": 3.99,
+          "pctOff": 20
+        }
+      ],
+      "bestPrice": 3.99
+    },
+    {
+      "chain": "Target",
+      "id": "94747370",
+      "title": "Grace &#38; Stella Under Eye Mask - Pink - 2ct",
+      "url": "https://www.target.com/p/grace-38-stella-under-eye-mask-pink-2ct/-/A-94747370",
+      "image": "",
+      "regular": 4.99,
+      "stores": [
+        {
+          "storeId": "3375",
+          "name": "Houston Montrose",
+          "city": "Houston",
+          "address": "2075 Westheimer Rd",
+          "price": 4.99,
+          "pctOff": 0
+        }
+      ],
+      "bestPrice": 4.99
+    },
+    {
+      "chain": "Target",
+      "id": "1011302285",
+      "title": "Grace &#38; Stella Moisturizing Pink Under Eye Mask Ornament - 2ct",
+      "url": "https://www.target.com/p/grace-38-stella-moisturizing-pink-under-eye-mask-ornament-2ct/-/A-1011302285",
+      "image": "",
+      "regular": 4.99,
+      "stores": [
+        {
+          "storeId": "3375",
+          "name": "Houston Montrose",
+          "city": "Houston",
+          "address": "2075 Westheimer Rd",
+          "price": 4.99,
+          "pctOff": 0
+        }
+      ],
+      "bestPrice": 4.99
+    },
+    {
+      "chain": "Target",
+      "id": "95046345",
+      "title": "LEGO Minifigures Shrek Series Mystery Box 71053",
+      "url": "https://www.target.com/p/lego-minifigures-shrek-series-mystery-box-71053/-/A-95046345",
+      "image": "",
+      "regular": 4.99,
+      "stores": [
+        {
+          "storeId": "1336",
+          "name": "Houston South Main",
+          "city": "Houston",
+          "address": "8500 Main St",
+          "price": 4.99,
+          "pctOff": 0
+        }
+      ],
+      "bestPrice": 4.99
+    },
+    {
+      "chain": "Target",
+      "id": "94828796",
+      "title": "LEGO Marvel Spider-Man vs. Anti-Venom Heist 30725",
+      "url": "https://www.target.com/p/lego-marvel-spider-man-vs-anti-venom-heist-30725/-/A-94828796",
+      "image": "",
+      "regular": 4.99,
+      "stores": [
+        {
+          "storeId": "1336",
+          "name": "Houston South Main",
+          "city": "Houston",
+          "address": "8500 Main St",
+          "price": 4.99,
+          "pctOff": 0
+        }
+      ],
+      "bestPrice": 4.99
+    },
+    {
+      "chain": "Target",
+      "id": "94655920",
+      "title": "Vaseline Holiday Limited Edition Lip Therapy Stick - Flavors Collection - 4pk",
+      "url": "https://www.target.com/p/vaseline-lip-therapy-holiday-flavors-collection-4pk/-/A-94655920",
       "image": "",
       "regular": 5,
       "stores": [
         {
-          "storeId": "907",
-          "name": "Katy",
+          "storeId": "3375",
+          "name": "Houston Montrose",
           "city": "Houston",
-          "address": "19955 Katy Fwy",
+          "address": "2075 Westheimer Rd",
+          "price": 5,
+          "pctOff": 0
+        }
+      ],
+      "bestPrice": 5
+    },
+    {
+      "chain": "Target",
+      "id": "93200681",
+      "title": "SUNGBOON EDITOR Deep Collagen Viral Glass Skin Korean Skincare Power Boosting Facial Mask for Firming and Restoration - Beauty Studio",
+      "url": "https://www.target.com/p/sungboon-editor-deep-collagen-viral-glass-skin-korean-skincare-power-boosting-facial-mask-for-firming-and-restoration/-/A-93200681",
+      "image": "",
+      "regular": 5,
+      "stores": [
+        {
+          "storeId": "3375",
+          "name": "Houston Montrose",
+          "city": "Houston",
+          "address": "2075 Westheimer Rd",
+          "price": 5,
+          "pctOff": 0
+        }
+      ],
+      "bestPrice": 5
+    },
+    {
+      "chain": "Target",
+      "id": "94419117",
+      "title": "SUNGBOON EDITOR Deep Collagen Overnight Facial Mask - Niacin-Vita C - Beauty Studio",
+      "url": "https://www.target.com/p/sungboon-editor-deep-collagen-overnight-facial-mask-niacin-vita-c/-/A-94419117",
+      "image": "",
+      "regular": 5,
+      "stores": [
+        {
+          "storeId": "3375",
+          "name": "Houston Montrose",
+          "city": "Houston",
+          "address": "2075 Westheimer Rd",
+          "price": 5,
+          "pctOff": 0
+        }
+      ],
+      "bestPrice": 5
+    },
+    {
+      "chain": "Target",
+      "id": "95203922",
+      "title": "SUNGBOON EDITOR Deep Collagen NAD+ Bakuchiol Plumping Facial Mask - Travel Size - Beauty Studio",
+      "url": "https://www.target.com/p/sungboon-editor-deep-collagen-nad-bakuchiol-plumping-facial-mask-travel-size/-/A-95203922",
+      "image": "",
+      "regular": 5,
+      "stores": [
+        {
+          "storeId": "3375",
+          "name": "Houston Montrose",
+          "city": "Houston",
+          "address": "2075 Westheimer Rd",
+          "price": 5,
+          "pctOff": 0
+        }
+      ],
+      "bestPrice": 5
+    },
+    {
+      "chain": "Target",
+      "id": "95296927",
+      "title": "Vaseline Holiday Limited Edition Vanilla Shortbread Lip Balm Tubes - 0.35oz/2pk",
+      "url": "https://www.target.com/p/vaseline-holiday-limited-edition-vanilla-shortbread-lip-balm-tubes-0-35oz-2pk/-/A-95296927",
+      "image": "",
+      "regular": 5,
+      "stores": [
+        {
+          "storeId": "3375",
+          "name": "Houston Montrose",
+          "city": "Houston",
+          "address": "2075 Westheimer Rd",
+          "price": 5,
+          "pctOff": 0
+        }
+      ],
+      "bestPrice": 5
+    },
+    {
+      "chain": "Target",
+      "id": "1011185099",
+      "title": "Vaseline Moisturizing Holiday Limited Edition Lip Therapy Stick Gift Collection - 4pk/0.8oz",
+      "url": "https://www.target.com/p/vaseline-moisturizing-holiday-limited-edition-lip-therapy-stick-gift-collection-4pk-0-8oz/-/A-1011185099",
+      "image": "",
+      "regular": 5,
+      "stores": [
+        {
+          "storeId": "3375",
+          "name": "Houston Montrose",
+          "city": "Houston",
+          "address": "2075 Westheimer Rd",
+          "price": 5,
+          "pctOff": 0
+        }
+      ],
+      "bestPrice": 5
+    },
+    {
+      "chain": "Target",
+      "id": "1010863855",
+      "title": "Holler and Glow Hydrating Candy Cane Scented Layered Lip Mask - 0.7oz",
+      "url": "https://www.target.com/p/holler-and-glow-hydrating-candy-cane-scented-layered-lip-mask-0-7oz/-/A-1010863855",
+      "image": "",
+      "regular": 5,
+      "stores": [
+        {
+          "storeId": "3375",
+          "name": "Houston Montrose",
+          "city": "Houston",
+          "address": "2075 Westheimer Rd",
           "price": 5,
           "pctOff": 0
         }
@@ -30,10 +429,48 @@
       "regular": 5,
       "stores": [
         {
-          "storeId": "907",
-          "name": "Katy",
-          "city": "Houston",
-          "address": "19955 Katy Fwy",
+          "storeId": "1458",
+          "name": "Houston North Central",
+          "city": "Spring",
+          "address": "19511 N Freeway I-45",
+          "price": 5,
+          "pctOff": 0
+        }
+      ],
+      "bestPrice": 5
+    },
+    {
+      "chain": "Target",
+      "id": "94404879",
+      "title": "Gems Keyboard Cleaning Gel: Electronics Cleaner for Dust Removal",
+      "url": "https://www.target.com/p/gems-keyboard-cleaning-gel/-/A-94404879",
+      "image": "",
+      "regular": 5,
+      "stores": [
+        {
+          "storeId": "1396",
+          "name": "Pasadena",
+          "city": "Pasadena",
+          "address": "5757 Fairmont Pkwy",
+          "price": 5,
+          "pctOff": 0
+        }
+      ],
+      "bestPrice": 5
+    },
+    {
+      "chain": "Target",
+      "id": "94407644",
+      "title": "Gems Screen Cleaner for Laptops, Tablets, and Phones - Light Blue: Electronics Dirt Remover",
+      "url": "https://www.target.com/p/gems-screen-cleaner-for-laptops-tablets-and-phones-light-blue/-/A-94407644",
+      "image": "",
+      "regular": 5,
+      "stores": [
+        {
+          "storeId": "1396",
+          "name": "Pasadena",
+          "city": "Pasadena",
+          "address": "5757 Fairmont Pkwy",
           "price": 5,
           "pctOff": 0
         }
